@@ -1,0 +1,26 @@
+                    EVENT BUS
+
+                         │
+
+        ┌────────────────┼────────────────┐
+
+        ▼                ▼                ▼
+
+   Communications      CRM         Project Mgmt
+
+        │                │                │
+
+        └────────────────┼────────────────┘
+
+                         ▼
+
+                 Workflow Engine
+
+                         ▼
+
+                  Action System
+
+                         ▼
+
+            Tasks • Calls • Emails
+            SMS • Updates • Routing
