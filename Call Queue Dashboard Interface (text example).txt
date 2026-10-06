@@ -1,0 +1,24 @@
++--------------------------------------------------+
+| CALL QUEUE                                       |
++--------------------------------------------------+
+
+Waiting Calls: 127
+
+Agent Available: 11
+
+Current Campaign:
+Winter Sales Campaign
+
+----------------------------------------------------
+
+Priority | Contact | Attempts | Status
+
+HIGH     | ABC Co. |     2    | Waiting
+HIGH     | XYZ LLC |     1    | Dialing
+NORMAL   | DEF Inc |     3    | Callback
+
+----------------------------------------------------
+
+[Start Dialing]
+[Pause Queue]
+[Campaign Settings]
