@@ -96,6 +96,7 @@ Features originally suggested:
 ✅ Custom Integrations
 ✅ SLA & Uptime Monitoring
 ✅ Dedicated Account Management
+<br>
 Totals
 Category	FeaturesCore Dialing & Calling	11
 AI & Automation	8
