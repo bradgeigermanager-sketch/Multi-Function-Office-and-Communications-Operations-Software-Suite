@@ -1,0 +1,11 @@
+Task                    Oct   Nov   Dec
+
+Discovery               ███
+
+Requirements                  ████
+
+Development                     █████████
+
+Testing                                ████
+
+Deployment                                ██
