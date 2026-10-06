@@ -1,21 +1,21 @@
-# Multi-Function-Office-and-Communications-Operations-Software-Suite
-Combines features from various disciplines associated with offices and organizations to coordinate communications and project activities
+# Multi-Function-Office-and-Communications-Operations-Software-Suite<br>
+Combines features from various disciplines associated with offices and organizations to coordinate communications and project activities<br>
 
 
-Feature Description Completion Checklist
+Feature Description Completion Checklist<br>
 
-Features originally suggested:
+Features originally suggested:<br>
 
-✅ Core Dialing & Calling
-✅ Predictive Dialer
-✅ Progressive Dialer
-✅ Preview Dialer
-✅ Local Presence Calling
-✅ Click-to-Call
-✅ Call Recording
-✅ Call Monitoring & Whisper Coaching
-✅ Call Barging
-✅ Conference Calling
+✅ Core Dialing & Calling<br>
+✅ Predictive Dialer<br>
+✅ Progressive Dialer<br>
+✅ Preview Dialer<br>
+✅ Local Presence Calling<br>
+✅ Click-to-Call<br>
+✅ Call Recording<br>
+✅ Call Monitoring & Whisper Coaching<br>
+✅ Call Barging<br>
+✅ Conference Calling<br>
 ✅ Call Transfer & Warm Handoffs
 ✅ Automated Call Dispositioning
 ✅ AI & Automation
