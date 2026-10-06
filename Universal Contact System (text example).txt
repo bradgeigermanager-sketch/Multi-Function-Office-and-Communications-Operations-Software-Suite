@@ -1,0 +1,22 @@
+Organization
+    │
+    ▼
+Contact
+    │
+ ┌──┼────────┬─────────┬─────────┐
+ ▼  ▼        ▼         ▼         ▼
+Calls Emails SMS Tasks Projects
+
+Core records:
+
+Contacts
+Companies
+Accounts
+Opportunities
+Communication History
+Notes
+Activities
+Attachments
+Relationships
+
+This becomes the central data model that powers the call queue, communications hub, CRM, project management, workflow automation, and campaign systems. The communications layer (calls, email, SMS, inbox) and the workflow engine are built on top of the event bus.
