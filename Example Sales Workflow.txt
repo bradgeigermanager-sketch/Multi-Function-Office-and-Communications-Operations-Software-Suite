@@ -1,0 +1,24 @@
+New Lead Created
+       │
+       ▼
+Assign Sales Rep
+       │
+       ▼
+Create Call Task
+       │
+       ▼
+Call Completed?
+       │
+ ┌─────┴──────┐
+ │            │
+ YES          NO
+ │            │
+ ▼            ▼
+Create      Retry
+Opportunity Call
+ │
+ ▼
+Send Email
+ │
+ ▼
+Schedule Demo
