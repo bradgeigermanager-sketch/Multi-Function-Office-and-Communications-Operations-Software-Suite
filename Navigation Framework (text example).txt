@@ -1,0 +1,16 @@
+┌────────────────────────────────┐
+│ Software Suite                 │
+├────────────────────────────────┤
+│ Dashboard                      │
+│ Inbox                          │
+│ Contacts                       │
+│ Organizations                  │
+│ Calls                          │
+│ Messages                       │
+│ Projects                       │
+│ Tasks                          │
+│ Workflows                      │
+│ Campaigns                      │
+│ Analytics                      │
+│ Administration                 │
+└────────────────────────────────┘
