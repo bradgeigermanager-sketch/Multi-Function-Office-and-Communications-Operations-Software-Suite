@@ -1,0 +1,29 @@
+┌──────────────────────────────────────────────────┐
+│ COMMUNICATIONS OPERATIONS CENTER                 │
+├──────────────────────────────────────────────────┤
+
+Active Calls           47
+
+Calls Waiting          11
+
+SMS Pending            36
+
+Emails Queued          88
+
+Available Agents       14
+
+Service Level          96%
+
+----------------------------------------------------
+
+Inbound Queue
+
+Outbound Queue
+
+Agent Activity
+
+Campaign Performance
+
+Communication Trends
+
+----------------------------------------------------
