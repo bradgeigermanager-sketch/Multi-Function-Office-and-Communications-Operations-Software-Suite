@@ -1,0 +1,14 @@
+IF Industry = Hospitality
+
+Route To:
+Hospitality Sales Team
+
+IF Customer Status = VIP
+
+Route To:
+Priority Queue
+
+IF Support Case = Critical
+
+Route To:
+Level 3 Support
