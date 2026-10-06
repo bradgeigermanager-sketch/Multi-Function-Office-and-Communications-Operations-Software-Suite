@@ -1,0 +1,14 @@
+IF State = Wyoming
+
+Assign:
+Mountain Region Sales
+
+IF Industry = Hospitality
+
+Assign:
+Hospitality Division
+
+IF Revenue > $10M
+
+Assign:
+Enterprise Sales Team
