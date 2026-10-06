@@ -1,0 +1,23 @@
++-------------------------------------------------------+
+| MY WORK QUEUE                                         |
++-------------------------------------------------------+
+
+Backlog (25)
+Ready (12)
+In Progress (8)
+Waiting (4)
+
+--------------------------------------------------------
+
+Priority  Task
+
+Critical  Call ABC Company
+High      Deliver Proposal
+High      Send Follow-up Email
+Medium    Prepare Demo
+
+--------------------------------------------------------
+
+[Start Work]
+[Assign]
+[Escalate]
