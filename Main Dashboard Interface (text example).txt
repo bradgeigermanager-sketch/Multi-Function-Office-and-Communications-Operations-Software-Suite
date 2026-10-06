@@ -1,0 +1,31 @@
++--------------------------------------------------+
+| Executive Dashboard                              |
++--------------------------------------------------+
+
+Calls Today            143
+Tasks Due              27
+Open Projects          14
+Opportunities          51
+
+----------------------------------------------------
+
+Upcoming Work
+
+[ ] Follow Up Sheraton
+[ ] Call Holiday Inn
+[ ] Review API Project
+
+----------------------------------------------------
+
+Recent Activity
+
+10:03 AM
+Proposal Sent
+
+09:45 AM
+Call Logged
+
+08:21 AM
+Meeting Scheduled
+
+----------------------------------------------------
