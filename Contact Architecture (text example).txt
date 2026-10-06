@@ -1,0 +1,18 @@
+Organization
+     │
+     ▼
+ Company
+     │
+ ┌───┴──────────────┐
+ ▼                  ▼
+Contacts          Locations
+ │
+ ├── Calls
+ ├── Emails
+ ├── SMS
+ ├── Meetings
+ ├── Projects
+ ├── Tasks
+ ├── Opportunities
+ ├── Workflows
+ └── Documents
