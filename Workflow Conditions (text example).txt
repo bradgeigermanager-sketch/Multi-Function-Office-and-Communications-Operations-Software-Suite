@@ -1,0 +1,11 @@
+IF
+
+industry = hospitality
+
+AND
+
+annualRevenue > 10000000
+
+THEN
+
+Execute Workflow
