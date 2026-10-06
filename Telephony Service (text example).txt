@@ -1,0 +1,14 @@
+Telephony Service
+
+The telephony layer manages:
+
+Inbound calls
+Outbound calls
+Power dialing
+Parallel dialing
+Recording
+Transcription
+Routing
+Voicemail
+IVR
+Agent assignment
