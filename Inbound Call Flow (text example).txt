@@ -1,0 +1,33 @@
+Incoming Call
+
+      │
+
+      ▼
+
+Identify Caller
+
+      │
+
+      ▼
+
+Lookup Contact
+
+      │
+
+      ▼
+
+Routing Decision
+
+      │
+
+ ┌────┼────┐
+
+ ▼    ▼    ▼
+
+Sales Support Billing
+
+      │
+
+      ▼
+
+Agent Connected
