@@ -1,0 +1,13 @@
+Website Form
+      │
+Inbound Call
+      │
+Email Inquiry
+      │
+Walk-In Visit
+      │
+API Integration
+      │
+Import File
+      ▼
+   Lead Queue
