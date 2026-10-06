@@ -1,0 +1,13 @@
+User Login
+    │
+    ▼
+Validate Credentials
+    │
+    ▼
+Generate JWT
+    │
+    ▼
+Issue Refresh Token
+    │
+    ▼
+Load User Permissions
