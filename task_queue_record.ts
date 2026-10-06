@@ -5,25 +5,33 @@ export interface Task {
 
   description: string;
 
-  assignedTo?: string;
+  parentTaskId?: string;
+
+  childTaskId?: string;
+
+  assignedUserId?: string;
 
   projectId?: string;
 
   relatedContactId?: string;
 
+  
+
   priority:
     | "critical"
     | "high"
     | "medium"
-    | "low";
+    | "low"
+    | "periodic";
 
   status:
     | "backlog"
+    | "not_started"
     | "ready"
     | "active"
     | "blocked"
     | "review"
-    | "done";
+    | "completed";
 
   estimatedHours?: number;
 
