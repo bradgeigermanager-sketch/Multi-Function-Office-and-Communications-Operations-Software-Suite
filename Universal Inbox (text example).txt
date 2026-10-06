@@ -1,0 +1,13 @@
+CONTACT
+    │
+    ├─ Calls
+    ├─ Emails
+    ├─ SMS
+    ├─ Chat
+    ├─ Meetings
+    └─ Tasks
+
+      ▼
+
+UNIFIED INBOX
+`
