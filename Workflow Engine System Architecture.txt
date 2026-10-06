@@ -1,0 +1,20 @@
+┌─────────────────────────┐
+│     Workflow Engine     │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│      Unified Queue      │
+│-------------------------│
+│ Calls                   │
+│ Tasks                   │
+│ Messages                │
+│ Meetings                │
+│ Projects                │
+│ Approvals               │
+└────────────┬────────────┘
+             │
+     ┌───────┼────────┐
+     ▼       ▼        ▼
+ Sales    Support   Operations
+ Teams     Teams      Teams
